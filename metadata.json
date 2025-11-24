@@ -1,6 +1,6 @@
 {
   "name": "BlouConnect",
-  "description": "A modern community platform combining chat, social feeds, and village-based discovery for local areas.",
+  "description": "A comprehensive community connector app blending chat, social feed, and local discovery for South African villages.",
   "requestFramePermissions": [
     "camera",
     "microphone",

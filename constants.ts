@@ -1,6 +1,4 @@
-export const APP_NAME = "BlouConnect";
-
-export const VILLAGES = [
+export const VILLAGE_LIST = [
   "Grootpan", "Sias", "Simson", "Arie", "Alldays", "Amosotho", "Archibalt", "Aurora", "Avon", 
   "Bahamanoa", "Bahananoa", "Bayswater", "Bergendal", "Berseba", "Blouberg", "Blouberg Munic NU", 
   "Bobirwa", "Bochum", "Bodi", "Borwalathoto", "Boshia", "Botlokwa", "Brodie Hill A", "Brodie Hill B", 
@@ -9,26 +7,24 @@ export const VILLAGES = [
   "Ga-Kibi", "Ga-Kobe", "Ga-Mabelebele", "Ga-Mabotha", "Ga-Machaba", "Ga-Madibeng", "Ga-Motlana", 
   "Ga-Motshemi", "Ga-Moyaga", "Ga-Rammutla A", "Ga-Rammutla B", "Ga-Rampuru", "Ga-Tshabalala", 
   "GaMabeba", "GaMakgwata", "Gamalebogo", "GaMalokela", "GaMamadi", "GaMamokhwibidu", "GaMamoleka", 
-  "GaMaphoto", "GaMasealele", "GaMasekwa", "GaMmatemana", "GaMoisimane Arie", "GaMojela", "GaMonyebodi", 
-  "GaMoreise", "GaNgwepe", "GaRakwele", "GaRamaswikana", "GaRamotsho", "GaRamutla", "GaRaweshe", 
-  "GaRawesi", "GaSebotlane", "GaTefu", "Gideon", "Glenfernes", "Goudmyn", "Indermark", "Inveraan", 
-  "Kgatu", "Kgokonyane", "Kromhoek", "Lekgokgonoku", "Lekiting", "Letshwatla", "Lovely", "Makgabeng", 
-  "Makgari", "Mamelodi", "Mashaleng", "Matekereng", "Mmankgodi", "Modimvuhusi", "Mokoena Maswikeng", 
-  "Mokumuru", "Mophamamona", "Mosehleng", "Motsemoswa", "My Darling", "Nontz", "Papegaai", "Pax Intrantibus", 
-  "Pickum", "Raditshaba", "Rora", "Seboriane", "Sekhung", "Sekiding", "Sekwati", "Selowe", "Senwabarwana", 
-  "Sesuane", "Setlaole", "Setloking", "Slaaphoek", "Thabananhlana", "Thebere", "Tiekieline", "Tlhona", 
-  "Tlhonasedimong", "Tolwe", "Tsolametse", "Tswatsane", "Uitkyk B", "Vienen", "Wegdraai"
+  "GaMaphoto", "GaMasealele", "GaMasekwa", "GaMmatemana", "GaMoisimane Arie", "GaMojela", 
+  "GaMonyebodi", "GaMoreise", "GaNgwepe", "GaRakwele", "GaRamaswikana", "GaRamotsho", "GaRamutla", 
+  "GaRaweshe", "GaRawesi", "GaSebotlane", "GaTefu", "Gideon", "Glenfernes", "Goudmyn", "Indermark", 
+  "Inveraan", "Kgatu", "Kgokonyane", "Kromhoek", "Lekgokgonoku", "Lekiting", "Letshwatla", "Lovely", 
+  "Makgabeng", "Makgari", "Mamelodi", "Mashaleng", "Matekereng", "Mmankgodi", "Modimvuhusi", 
+  "Mokoena Maswikeng", "Mokumuru", "Mophamamona", "Mosehleng", "Motsemoswa", "My Darling", "Nontz", 
+  "Papegaai", "Pax Intrantibus", "Pickum", "Raditshaba", "Rora", "Seboriane", "Sekhung", "Sekiding", 
+  "Sekwati", "Selowe", "Senwabarwana", "Sesuane", "Setlaole", "Setloking", "Slaaphoek", 
+  "Thabananhlana", "Thebere", "Tiekieline", "Tlhona", "Tlhonasedimong", "Tolwe", "Tsolametse", 
+  "Tswatsane", "Uitkyk B", "Vienen", "Wegdraai"
 ];
 
-export const MOCK_USER_AVATARS = [
-  "https://picsum.photos/id/64/200/200",
-  "https://picsum.photos/id/65/200/200",
-  "https://picsum.photos/id/91/200/200",
-  "https://picsum.photos/id/177/200/200",
-];
+export const APP_LOGO_URL = "https://cdn-icons-png.flaticon.com/512/1041/1041916.png";
 
-export const MOCK_POST_IMAGES = [
-  "https://picsum.photos/id/237/600/400",
-  "https://picsum.photos/id/238/600/400",
-  "https://picsum.photos/id/239/600/400",
+export const AVATAR_PLACEHOLDERS = [
+  "https://picsum.photos/seed/1/200",
+  "https://picsum.photos/seed/2/200",
+  "https://picsum.photos/seed/3/200",
+  "https://picsum.photos/seed/4/200",
+  "https://picsum.photos/seed/5/200"
 ];
