@@ -1,0 +1,9 @@
+{
+  "name": "BlouConnect",
+  "description": "A modern community platform combining chat, social feeds, and village-based discovery for local areas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
